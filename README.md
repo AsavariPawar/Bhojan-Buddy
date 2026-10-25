@@ -1,4 +1,4 @@
-# Bhojan Buddy (No Node.js version) 🍲
+# Bhojan Buddy🍲
 
 This version uses **one HTML file** and Firebase's browser SDK from a CDN. You do not need Node.js, npm, React, or a build step. Internet is required for Firebase and the fonts.
 
